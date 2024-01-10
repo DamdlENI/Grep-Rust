@@ -1,3 +1,5 @@
-# Grep-Rust
+# Simple Rust Grep
 
-Install Rust Cargo run main.rs
+Install Rust, Cargo 
+
+cargo run main.rs
