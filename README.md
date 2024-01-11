@@ -23,3 +23,7 @@ copy past main.rs
 ```cargo build```
 
 ```cargo run main.rs```
+
+**For Windows user :**
+
+for the redirect donc copy C: D: just /user/ etc etc
