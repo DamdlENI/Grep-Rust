@@ -26,4 +26,4 @@ copy past main.rs
 
 **For Windows user :**
 
-for the redirect donc copy C: D: just /user/ etc etc
+for the redirect dont copy C: D: just /user/.../... 
