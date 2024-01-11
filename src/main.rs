@@ -165,7 +165,7 @@ fn search() {
 
         
         if !result_found {
-            println!("Aucun Résultat", search_word);
+            println!("Aucun Résultat");
         }
     }
 }
