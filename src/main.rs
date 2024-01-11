@@ -115,7 +115,7 @@ fn search() {
         
         let mut input = String::new();
 
-        println!("Entrez le mot à rechercher (ou tapez 'exit' pour quitter) : ");
+        println!("Entrez le pseudo à rechercher (ou tapez 'exit' pour quitter) : ");
 
         io::stdin()
         .read_line(&mut input)
