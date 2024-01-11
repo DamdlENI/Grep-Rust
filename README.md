@@ -1,8 +1,8 @@
 # Simple Rust Grep
 
-Install Rust
+Install Rust  https://www.rust-lang.org/tools/install
 
-Go to src folder
+Go to src folder (open terminal here)
 
 cargo run build
 
